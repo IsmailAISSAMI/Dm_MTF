@@ -5,7 +5,7 @@ public class run {
 	public static void main(String[] args)
 	  {
 		
-	    Dominos dm =  new Dominos();
+	    Domino dm =  new Domino();
 	    Player p1 =new Player();
 	    Player p2 =new Player();
 
